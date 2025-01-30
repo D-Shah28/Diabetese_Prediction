@@ -19,10 +19,10 @@ This project is a Machine Learning-based Diabetes Prediction System using the PI
 # 📂 Project Structure
 
 Diabetes_Prediction/
-│── diabetes_prediction.py  # Main script for training and prediction
-│── requirements.txt        # List of dependencies
-│── README.md               # Project documentation
-│── dataset/diabetes.csv    # Dataset (if included)
+* │── diabetes_prediction.py  # Main script for training and prediction
+* │── requirements.txt        # List of dependencies
+* │── README.md               # Project documentation
+* │── dataset/diabetes.csv    # Dataset (if included)
 
 # 📊 Feature Importance
 
